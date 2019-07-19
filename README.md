@@ -1,4 +1,4 @@
-# Simple Hangman Game For Tehcnical Assignment
+# Simple Hangman Game For Technical Assignment
 
 + Chooses a random word out of 6 words
 + Display the spaces for the letters of the word (eg: '​_ _ _​ _ _' for 'order')
