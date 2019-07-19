@@ -1,0 +1,14 @@
+body {
+  font-family: 'Darker Grotesque', sans-serif;
+  text-align: center;
+}
+
+p {
+  font-size: 24px;
+}
+
+#guess-box p {
+  font-size: 40px;
+  display: inline-block;
+  margin: 10px;
+}
