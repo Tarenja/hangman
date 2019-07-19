@@ -1,6 +1,6 @@
 # Simple Hangman Game For Technical Assignment
 
-+ Chooses a random word out of 6 words
++ Chooses a random word out of 6 words: ['3dhubs', 'marvin', 'print', 'filament', 'order', 'layer']
 + Display the spaces for the letters of the word (eg: '​_ _ _​ _ _' for 'order')
 + The user can choose a letter and if that letter exists in the chosen word it should be
 shown on the puzzle (eg: asks for 'r' and now it shows '​_ r _​ _ r' for 'order')
