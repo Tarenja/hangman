@@ -33,3 +33,23 @@ li.alphabet.clicked {
   color: #c8c9c8;
   cursor: default;
 }
+
+button {
+  all: unset;
+  background-color: #66e5a7;
+  border-radius: 6px;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 24px;
+  padding: 10px;
+}
+
+button:hover {
+  background-color: #44c485;
+}
+
+ul {
+  height: 67px;
+  margin: 0 auto;
+  padding: 0;
+}
